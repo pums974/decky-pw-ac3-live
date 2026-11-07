@@ -1,11 +1,18 @@
 {
-  "name": "pw-ac3-live",
+  "name": "Surround Sound Fix",
   "author": "Alexandre Poux",
   "flags": [],
   "api_version": 1,
   "publish": {
-    "tags": ["audio", "ac3", "pipewire", "steamdeck", "hdmi"],
-    "description": "Decky control surface for pw-ac3-live AC-3 passthrough on Steam Deck.",
+    "tags": [
+      "audio",
+      "surround",
+      "5.1",
+      "ac3",
+      "dolby digital",
+      "hdmi"
+    ],
+    "description": "Encodes 5.1 game audio to Dolby Digital (AC-3) over HDMI, so TVs, soundbars and receivers that only accept stereo PCM still get real surround sound.",
     "image": "https://opengraph.githubassets.com/1/pums974/decky-pw-ac3-live"
   }
 }

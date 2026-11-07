@@ -1,7 +1,7 @@
 {
   "name": "decky-pw-ac3-live",
   "version": "0.1.0",
-  "description": "Decky Loader plugin for pw-ac3-live AC-3 passthrough control on Steam Deck",
+  "description": "Encodes 5.1 game audio to Dolby Digital (AC-3) over HDMI, so TVs, soundbars and receivers that only accept stereo PCM still get real surround sound.",
   "type": "module",
   "scripts": {
     "build": "rollup -c",
